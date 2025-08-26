@@ -86,7 +86,8 @@ ul li {
 }
 
 a {
-    color: #c1c6cc;
+    color: #e3e8ef;
+    text-decoration: underline;
     text-decoration: none;
 }
 
