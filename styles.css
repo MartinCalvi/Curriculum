@@ -1,0 +1,99 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    /*background-color: #f4f4f4;*/
+    background-image: url("Imagenes/Luces-8.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    color: #333;
+    padding: 20px;
+}
+
+button{
+    margin-top: 20px;
+    /*background-color: red;*/
+}
+
+.cv-container {
+    max-width: 800px;
+    color: aliceblue;
+    margin: auto;
+    /*background: #fff;*/
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #333;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-pic-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 15px;
+    /*border: 3px solid #000;*/
+}
+
+.profile-pic {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.name {
+    margin: 0;
+    font-size: 2.5em;
+    /*color: #333;*/
+    color: aliceblue;
+}
+
+.title {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+    /*color: #555;*/
+    color: aliceblue;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h3 {
+    border-bottom: 2px solid #555;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.job h4 {
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #c1c6cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h3{
+    background-color: rgb(127, 127, 220);
+}
