@@ -46,3 +46,4 @@
         // Oculta el botón de pausa al inicio
         pauseButton.style.display = 'none';
     });
+
